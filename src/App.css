@@ -1,0 +1,25 @@
+
+.top{
+  height: 40px;
+  display: flex;
+  margin-bottom: 20px;
+}
+.bigContainer{
+  margin:100px auto 100px auto;
+  width: 50vw;
+  min-width: 500px;
+  height: 500px;
+}
+.btnContent{
+  margin-left: 20px;
+  width: 80px;
+  border-radius: 10vw;
+}
+.aa{
+  position: relative;
+}
+.footbtn{
+  position: relative;
+  bottom: -65px;
+  width: 70px;
+}
